@@ -1,0 +1,74 @@
+{
+  "images" : [
+    {
+      "filename" : "B4D0023D-E589-4E78-8E86-20AA3E56F8E9 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "filename" : "05AEB2FC-6780-419F-B984-5E50605E495F_4_5005_c.jpeg",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "16x16"
+    },
+    {
+      "filename" : "7A4EC7BB-42F0-4134-BBA7-C9644CAC00D5_4_5005_c 1.jpeg",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "16x16"
+    },
+    {
+      "filename" : "7A4EC7BB-42F0-4134-BBA7-C9644CAC00D5_4_5005_c.jpeg",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "32x32"
+    },
+    {
+      "filename" : "20FBC4C7-FE34-42D2-AE63-2B0965A2F8E7_4_5005_c.jpeg",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "32x32"
+    },
+    {
+      "filename" : "BC6D4321-A777-42C9-9E4C-F99812CF39B5_4_5005_c.jpeg",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "128x128"
+    },
+    {
+      "filename" : "C8BC1A26-BE7F-4DE3-807D-89EA2CC3949C_4_5005_c.jpeg",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "128x128"
+    },
+    {
+      "filename" : "C8BC1A26-BE7F-4DE3-807D-89EA2CC3949C_4_5005_c 1.jpeg",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "256x256"
+    },
+    {
+      "filename" : "31426374-F74B-4855-A0F6-BC6B63B6D716.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "256x256"
+    },
+    {
+      "filename" : "31426374-F74B-4855-A0F6-BC6B63B6D716 1.png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "512x512"
+    },
+    {
+      "filename" : "B4D0023D-E589-4E78-8E86-20AA3E56F8E9.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "512x512"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
